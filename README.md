@@ -30,7 +30,7 @@ The dataset used in this project was obtained from the official **Los Angeles Op
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Python**  
 - **Pandas, NumPy**  
@@ -64,7 +64,7 @@ The dataset used in this project was obtained from the official **Los Angeles Op
 
 - *Vehicle theft** was consistently the most reported crime  
 -  Crimes involving **firearms** were most common among violent offenses  
-- 🌦 **Crime peaks during winter**, especially property crimes  
+-  **Crime peaks during winter**, especially property crimes  
 -  **Cybercrime and domestic violence increased** during COVID lockdown  
 -  Only about **30% of crimes are solved**, with violent crimes having higher clearance rates  
 
